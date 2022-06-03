@@ -1,5 +1,13 @@
 .App {
   text-align: center;
+  display: block;
+  padding-top: 2em;
+  padding-left: 22%;
+  padding-right: 22%;
+  text-align: left;
+  font-size: medium;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
 }
 
 .App-logo {

@@ -9,7 +9,6 @@ function App() {
   return (
     <div className="App">
         <Header/>
-        <p>This will be my website *this is in app.js</p>
         <Works/>
         <Projects/>
     </div>

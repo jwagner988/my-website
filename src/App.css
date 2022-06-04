@@ -10,6 +10,21 @@
   font-weight: 400;
 }
 
+.desc {
+  font-size: small;
+}
+
+a {
+  color: rgb(96, 186, 216);
+  text-decoration: none;
+  font-weight: 500;
+  
+}
+
+em {
+  font-size: small;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

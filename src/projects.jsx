@@ -8,13 +8,13 @@ const Projects = () => {
             <br></br>
             <em>Gamified Flashcard Study App</em>
             <br></br>
-            <p className="desc">SeeQR is an electon application that provides a myriad of tools for database developers to more efficiently create Posgres database schemas.</p>
+            <p className="desc">FlashCatch allows user to create, store, and review flashcards, as well as rewards users for studying through the implementation of a Pokemon themed Gacha mechanic.</p>
             <p>- -</p>
             <a href='https://github.com/TeamCatSnake1/frollic'><b>Frollic</b></a>
             <br></br>
             <em>App to help differently-abled users find businesses that offer various accomodations</em>
             <br></br>
-            <p className="desc">SeeQR is an electon application that provides a myriad of tools for database developers to more efficiently create Posgres database schemas.</p>
+            <p className="desc">Frollic allows users to search for, filter, and review businesses in order to make locating accessible venues as easy as possible.</p>
 
         </div>
     )
